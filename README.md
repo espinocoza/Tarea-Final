@@ -64,10 +64,11 @@ npm run preview
 ## Entrega en GitHub
 
 - Repositorio público: https://github.com/espinocoza/Tarea-Final
-- Demo en GitHub Pages: 
+- Demo en GitHub Pages:  https://espinocoza.github.io/Tarea-Final/
 - Contiene README con descripción, componentes, instrucciones de ejecución, tecnologías y capturas.
 
 ## Créditos de imágenes
 
 - Imágenes/miniaturas provistas por DummyJSON para fines demostrativos.
+
 
